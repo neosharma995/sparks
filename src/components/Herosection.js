@@ -20,7 +20,7 @@ export default function Herosection(props) {
             <div className='hero-section-inner'>
               <div className="hero-section-first-div">
 
-                <p style={{ color: props.theme === 'dark' ? "#fff" : "#F24B74" }}>Ignite your online presence</p>
+                <p style={{ color: props.theme === 'dark' ? "#fff" : "#F24B74" }}>hii sparkweb users</p>
 
               </div>
               <div className='hero-section-heading'>
